@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgba(4, 135, 6, 0.467);
+    color: rgba(1, 29, 16, 0.972);
+    padding: 10px;
+}
+h2 {
+    background-color: rgba(40, 6, 75, 0.531);
+    color:rgba(1, 5, 17, 0.972);
+}
+h3 {
+    background-color: rgba(40, 6, 75, 0.531);
+    color: 40 6 75 rgba(1, 5, 17, 0.972);
+}
+p {
+    background-color: rgba(98, 4, 34, 0.531);
+    color: rgb(17, 0, 4);
+}
